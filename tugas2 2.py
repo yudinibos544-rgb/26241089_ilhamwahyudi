@@ -1,0 +1,6 @@
+print("nim : 26241089")
+print("digit pertama : 2")
+print("digit kedua : 6")
+print("digit ketiga : 2")
+print("digit keempat : 4")
+print("digit kelima: 1")
