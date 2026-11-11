@@ -1,0 +1,12 @@
+2 digit terakhir NIM: 89
+Digit terakhir NIM: 9
+Angka pertama: 89
+Angka kedua: 10
+--- Hasil 7 Operasi ---
+penjumlahan : 99
+pengurangan : 79
+perkalian : 890
+pembagian : 8.9
+floor division : 8
+modulus : 9
+perpangkatan : 31181719929966183601
